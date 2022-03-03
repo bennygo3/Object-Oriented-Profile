@@ -1,19 +1,43 @@
 # Object-Oriented-Profile
-Team Profile Generator 
-GIVEN a command-line application that accepts user input
-WHEN I am prompted for my team members and their information
-THEN an HTML file is generated that displays a nicely formatted team roster based on user input
-WHEN I click on an email address in the HTML
-THEN my default email program opens and populates the TO field of the email with the address
-WHEN I click on the GitHub username
-THEN that GitHub profile opens in a new tab
-WHEN I start the application
-THEN I am prompted to enter the team manager’s name, employee ID, email address, and office number
-WHEN I enter the team manager’s name, employee ID, email address, and office number
-THEN I am presented with a menu with the option to add an engineer or an intern or to finish building my team
-WHEN I select the engineer option
-THEN I am prompted to enter the engineer’s name, ID, email, and GitHub username, and I am taken back to the menu
-WHEN I select the intern option
-THEN I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu
-WHEN I decide to finish building my team
-THEN I exit the application, and the HTML is generated
+
+## Description
+
+The purpose of this project was to create a command line application that would ask a series of questions, then generate new html cards based of the answers from those questions.
+
+## Instructions for use
+
+The user will need to enter: node index.js in the integrated terminal to start the application.
+
+## Test command
+
+If you would like to run the implemented tests for the application then you can via the command line, then enter: npm test
+
+## Contribute
+
+If you would like to contribute or enhance the application, feel free to reach out to me through my email: -gobecodeme@gmail.com
+
+### Link for a video demonstrating how the application works:
+
+https://drive.google.com/file/d/1VvflNIA-m6sjKZtsCqhjkSxHdvGdKhdn/view
+
+
+## Pics of the application
+
+Here is how the app looks prior to running the inquirer prompts:
+
+![blank oop](https://user-images.githubusercontent.com/95048609/156656293-b3682302-75db-4ca4-9ae3-3b9ed14e39ad.jpeg)
+
+.. and here is an example of how it looks after:
+
+
+![oop](https://user-images.githubusercontent.com/95048609/156655147-a28b96c0-e3e6-4075-b238-17d484bd5bbc.jpeg)
+
+
+## Future development
+
+To include validators for the prompts!
+
+I would also like to the make the application visibly suitable for mobile viewports
+
+
+

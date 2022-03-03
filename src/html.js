@@ -51,7 +51,7 @@ function generateCards(arr) {
           <div class="employeeRole">Position: ${employee.getRole()} </div>
           <div class="employeeId">Id Number: ${employee.id} </div>
           <div class="employeeEmail">Email: <a href=mailto:${employee.email}> <br> ${employee.email}</a></div>
-          <div class="employeeEtc">GitHub Username:<a href="https://github.com/${employee.github}" target="_blank"> ${employee.github} </div>
+          <div class="employeeEtc">GitHub Username:<a href="https://github.com/${employee.github}" target="_blank"> ${employee.github}</a></div>
         </div>
       </div>`
     }else {
