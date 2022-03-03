@@ -19,7 +19,7 @@ If you would like to contribute or enhance the application, feel free to reach o
 ### Link for a video demonstrating how the application works:
 
 
-##Pics of the application
+## Pics of the application
 
 Here is how the app looks prior to running the inquirer prompts:
 
