@@ -41,7 +41,4 @@ I would also like to the make the application visibly suitable for mobile viewpo
 
 
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 0ea783623adfb406bd73f5a5c412297bff9f6d75
