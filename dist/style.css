@@ -1,0 +1,69 @@
+body{
+    text-align: center;
+    background-color: #322e1fc9;
+}
+
+#header{
+    background-image: url("./images/connect.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 270px;
+    margin-top: -7px;
+    display: flex;
+    justify-content: center;
+    border: solid black 2px ;
+}
+
+#header div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 98px;
+    color: #e40000;
+    -webkit-text-stroke: 1px black;
+    border: solid #000000 2px;
+    background-color: #000000ad;
+    height: 147px;
+    width: 737px;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.cardsContainer{
+    display: flex;
+    gap: 6px;
+}
+
+.subCard{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    /* -webkit-text-stroke: 0.50px white; */
+    background-color: #000000c7;
+    border: solid #000000 2px;
+    height:318px;
+    width: 310px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 25px;
+    color: white;
+    overflow-x: auto;
+}
+
+.employeeCard{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border: solid #000000 2px;
+    height: 395px;
+    width: 365px;
+    background-image: url("./images/connect.jpeg");
+    background-size: 911px;
+
+}
+
+.employeeEmail a, .employeeEtc a{
+    color: #e40000;
+}
+

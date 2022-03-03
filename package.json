@@ -1,0 +1,25 @@
+{
+  "name": "object-oriented-profile",
+  "description": "Team Profile Generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bennygo3/Object-Oriented-Profile.git"
+  },
+  "author": "BG",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "homepage": "https://github.com/bennygo3/Object-Oriented-Profile#readme"
+}
