@@ -18,6 +18,8 @@ If you would like to contribute or enhance the application, feel free to reach o
 
 ### Link for a video demonstrating how the application works:
 
+<iframe src="https://drive.google.com/file/d/1VvflNIA-m6sjKZtsCqhjkSxHdvGdKhdn/preview" width="640" height="480"></iframe>
+
 
 ## Pics of the application
 
